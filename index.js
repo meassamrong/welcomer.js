@@ -32,7 +32,8 @@ client.on("ready", () => {
     ctx.fillText(`${memberUsername}`, 260, 400)
 
     let attachment = new Discord.MessageAttachment(canvas.toBuffer(), 'profile.png');
-    welcomerchannel.send({ files: [attachment] })
+    welcomerchannel.send({ files: [attachment]})
+    welcomerchannel.send(`${member.user}`)
 
   });
 
