@@ -1,0 +1,25 @@
+{
+  "name": "discord_welcomer",
+  "version": "1.0.0",
+  "description": "this is welcomer bot with image",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meassamrong/welcomer.js.git"
+  },
+  "keywords": [
+    "discord.js",
+    "bot",
+    "discord",
+    "bot"
+  ],
+  "author": "Jcorp#5228",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meassamrong/welcomer.js/issues"
+  },
+  "homepage": "https://github.com/meassamrong/welcomer.js#readme"
+}
