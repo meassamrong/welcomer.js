@@ -24,6 +24,7 @@
   "homepage": "https://github.com/meassamrong/welcomer.js#readme",
   "dependencies": {
     "canvas": "^2.10.1",
+    "cfx-api": "^1.0.122",
     "discord.js": "^13.2.0",
     "emit": "^0.0.2",
     "glob": "^8.0.3",
